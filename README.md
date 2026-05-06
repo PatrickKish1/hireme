@@ -225,7 +225,7 @@ More detail: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 
 ```text
 JustHireMe/
-|-- src/                         React frontend
+|-- src/                         React Frontend
 |   |-- components/              Shared UI components
 |   |-- hooks/                   Data and websocket hooks
 |   |-- settings/                Settings panels
