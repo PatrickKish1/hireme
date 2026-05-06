@@ -1,7 +1,7 @@
 {
   "$comment": "JustHireMe profile import format. Remove $comment keys before importing.",
   "candidate": {
-    "name": "Your Full Name",
+    "name": "Patrick Amenuku",
     "summary": "2–4 sentence professional summary."
   },
   "identity": {
